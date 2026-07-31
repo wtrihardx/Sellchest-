@@ -77,8 +77,8 @@ Take full control of your server's economy through a clean, intuitive Admin Inte
 
 | Dependency | Purpose | Required Version |
 | :--- | :--- | :--- |
-| ☕ **Java 21** | Execution Environment | Java 21+ |
-| 📄 **Paper 1.21** | Server Core Software | Paper 1.21+ |
+| ☕ Java 1.19.4+ | Execution Environment | Java 1.19.4+ |
+| 📄 Paper 1.19.4+ | Server Core Software | Paper 1.19.4+ |
 | 💳 **Vault** | Economy & Account Management | Latest |
 | 🏷️ **EconomyShopGUI** | Source for Item Pricing | Latest |
 | 🔮 **Hologram Plugin** | Displays live chest holograms *(e.g., DecentHolograms, HolographicDisplays, etc.)* | Any compatible hologram plugin |
