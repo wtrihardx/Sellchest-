@@ -1,8 +1,15 @@
 # 🪙 SellChest – Ultimate Automated Selling System
 
-![Paper 1.21](https://img.shields.io/badge/Paper-1.21-blue.svg?style=for-the-badge)
-![Java 21](https://img.shields.io/badge/Java-21-orange.svg?style=for-the-badge)
-![Dependencies](https://img.shields.io/badge/Dependencies-Vault%20%7C%20EconomyShopGUI-green.svg?style=for-the-badge)
+> [!WARNING]
+> ### ⚠️ IMPORTANT REQUIREMENTS
+> 
+> Please make sure you have installed these **3 required plugins**:
+> * 💳 **Vault**
+> * 🏷️ **EconomyShopGUI**
+> * 🔮 **Any Hologram plugin** *(e.g. DecentHolograms)*
+> 
+> Ensure all of them are placed into your `/plugins` folder!  
+> 🚨 **Without these 3 plugins, SellChest will either not function properly or won't start at all.**
 
 **SellChest** is an advanced, lightweight, and highly optimized Paper 1.21 plugin engineered to automate item collection and selling on SkyBlock, Survival, and Factions servers. 
 
