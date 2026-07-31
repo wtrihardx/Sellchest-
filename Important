@@ -1,0 +1,10 @@
+> [!WARNING]
+> ### ⚠️ IMPORTANT REQUIREMENTS
+> 
+> Please make sure you have installed these **3 required plugins**:
+> * 💳 **Vault**
+> * 🏷️ **EconomyShopGUI**
+> * 🔮 **Any Hologram plugin** *(e.g. DecentHolograms)*
+> 
+> Ensure all of them are placed into your `/plugins` folder!  
+> 🚨 **Without these 3 plugins, SellChest will either not function properly or won't start at all.**
