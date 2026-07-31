@@ -1,2 +1,2 @@
-# Sellchest-
-SellChest: Automated selling chests using EconomyShopGUI prices, with co-op money sharing, holograms, global boost, and full admin panel. Requires Vault &amp; EconomyShopGUI. You can configure EVERY sellchest from the AdminPanel
+Make sure you have installed these 3 plugins: Vault, EconomyShopGUI, and any hologram plugin, and ensure that you have put them into the plugins folder. Without these 3 plugins, the SellChest plugin will either not work properly or won't work at all
+If you have any questions, encounter a bug, want to request a feature, or need help with anything regarding the plugin, feel free to join and report it on my Discord server! https://discord.gg/x9yQKVqT9C
