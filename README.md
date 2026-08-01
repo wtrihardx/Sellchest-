@@ -121,9 +121,9 @@ All commands are controlled via standard permission nodes. Give `sellchest.admin
 
   # 💬 **[Join our Discord Server](https://discord.gg/x9yQKVqT9C)** to open a support ticket, get developer assistance, or report issues!
 
- #### [PrimeSellchest1.0.1](https://modrinth.com/project/mZLelxwf) From Mordinth
+   ### [PrimeSellchest1.0.1](https://modrinth.com/project/mZLelxwf) From Mordinth
  
- #### [PrimeSellchest1.0.1](https://github.com/wtrihardx/prime-_sellchest/releases/download/Sellchest/SellChest-1.0.2.jar) From Github
+   ### [PrimeSellchest1.0.1](https://github.com/wtrihardx/prime-_sellchest/releases/download/Sellchest/SellChest-1.0.2.jar) From Github
 
 
   ## ON EVERY SITE THE PLUGIN WILL BE UPDATED **
