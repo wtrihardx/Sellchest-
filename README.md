@@ -116,8 +116,8 @@ All commands are controlled via standard permission nodes. Give `sellchest.admin
 
  # 🤝 Support & Discord Community
 
- # Found a bug? Need help configuring the plugin? Have a feature suggestion?  
- # We are always happy to help!
+ ## Found a bug? Need help configuring the plugin? Have a feature suggestion?  
+ ## We are always happy to help!
 
   # 💬 **[Join our Discord Server](https://discord.gg/x9yQKVqT9C)** to open a support ticket, get developer assistance, or report issues!
 
