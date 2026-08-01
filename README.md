@@ -120,5 +120,7 @@ Found a bug? Need help configuring the plugin? Have a feature suggestion?
 We are always happy to help!
 
 💬 **[Join our Discord Server](https://discord.gg/x9yQKVqT9C)** to open a support ticket, get developer assistance, or report issues!
+
 [PreimeSellchest1.0.1](https://modrinth.com/project/mZLelxwf)
+ 
  [PreimeSellchest1.0.1](https://github.com/wtrihardx/prime-_sellchest/releases/download/Sellchest/SellChest-1.0.2.jar)
