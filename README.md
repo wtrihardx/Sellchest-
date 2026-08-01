@@ -125,8 +125,9 @@ We are always happy to help!
  
  [PreimeSellchest1.0.1](https://github.com/wtrihardx/prime-_sellchest/releases/download/Sellchest/SellChest-1.0.2.jar) From Github
 
-    ## NOTE
+  ## NOTE
 
-  ## ON EVERY SITE THE PLUGIN WILL BE UPDATED 
+  ** ## ON EVERY SITE THE PLUGIN WILL BE UPDATED **
+ 
  
 
